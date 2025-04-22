@@ -1,10 +1,10 @@
 ### Hi there 👋
-I'm Giordano Lins, a DevOps engineer from 🇧🇷 Brazil, currently living and working in ⚜ QC, 🇨🇦 Canada.
+I'm Giordano Lins, a Full-Stack Developer from 🇧🇷 Brazil, currently living and working in ⚜ QC, 🇨🇦 Canada.
 
 Be it programming, infrastructure, automation, cloud computing or internet of things, I'm a technology lover, open-source enthusiast and passionate for software development. I'm agnostic to programming languages or platforms, what really drives me is making things happen! #Coffee-Code-Repeat
 
-- 👨‍💼 DevOps engineer at [@geniuserp](https://github.com/geniuserp)
-- 🏢 Founder at [@prospectsolucoes](https://github.com/prospectsolucoes)
+- 👨‍💼 Full-Stack Developer at [@geniuserp](https://github.com/geniuserp)
+- 🏢 Founder at [@SurScene](https://github.com/SurScene)
 
 ## Skills
 - 👨‍💻 .Net stack with C#, Java stack, Front-end stack, PHP, Go, Phyton, Groovy
@@ -19,6 +19,5 @@ Be it programming, infrastructure, automation, cloud computing or internet of th
 - 🪟 M$ Windows, 🐧 Linux and 🍎 OSx
 
 ## Contact
-- 📝 [giordanolins.com](https://giordanolins.com)
+- 📝 [gi0music.com](https://gi0music.com)
 - 💼 [@giordanolins](https://www.linkedin.com/in/giordanolins) on Linkedin
-- 📷 [@linsgiordano](https://www.instagram.com/linsgiordano) on Instagram
